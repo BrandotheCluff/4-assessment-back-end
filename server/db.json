@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Full-Metal Alchemist: Brotherhood",
+        "rating": 5,
+        "imageURL": "https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png/revision/latest?cb=20131124145205" 
+    },
+    {
+        "id": 2,
+        "title": "Naruto",
+        "rating": 3,
+        "imageURL": "https://static.wikia.nocookie.net/naruto/images/6/63/Artbook_2.png/revision/latest?cb=20150203192914"
+    },
+    {
+        "id": 3,
+        "title": "Attack on Titan",
+        "rating": 5,
+        "imageURL": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Attack_on_Titan_Season_1.jpg/revision/latest?cb=20211005182832"
+    },
+    {
+        "id": 4,
+        "title": "One-Punch Man",
+        "rating": 4,
+        "imageURL": "https://static.wikia.nocookie.net/onepunchman/images/e/e5/One-punch-man-season-2-poster.jpg/revision/latest?cb=20190416143744"
+    },
+    {
+        "id": 5,
+        "title": "My Hero Academia",
+        "rating": 3,
+        "imageURL": "https://m.media-amazon.com/images/I/71KEohYuzEL._AC_SX679_.jpg"
+    }
+]
